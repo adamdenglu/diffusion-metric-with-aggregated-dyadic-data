@@ -1,1 +1,1 @@
-# diffusion-metric-with-aggregated-dyadic-data
+# diffusion-metric-with-aggregated-dyadic
