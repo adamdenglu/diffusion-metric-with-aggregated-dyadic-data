@@ -1,6 +1,6 @@
 # Unbiased Estimation for Total Treatment Effect Under Interference Using Aggregated Dyadic Data
 
-Code for paper "Unbiased Estimation for Total Treatment Effect Under Interference Using Aggregated Dyadic Data".
+Code for paper "Unbiased Estimation for Total Treatment Effect Under Interference Using Aggregated Dyadic Data". Paper link : https://arxiv.org/pdf/2402.12653 。
 
 ## Description
 
